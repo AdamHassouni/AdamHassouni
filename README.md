@@ -40,9 +40,9 @@
 ---
 
 ## 💻 Featured Projects
-- **[Trading Strategy Optimization](https://github.com/AdamHassouni/Trading-Strategy)**: A modular Python-based trading strategy code that dynamically adjusts based on market conditions.
-- **[Solar Panel Fault Detection](https://github.com/AdamHassouni/Solar-Panel-Fault-Detection)**: A project that uses machine learning to detect faults in solar panels, aiding in preventive maintenance.
-- **[Black-Scholes Option Pricing](https://github.com/AdamHassouni/Option-Pricing)**: Built a Streamlit-based application for real-time Black-Scholes option pricing and visualization.
+- **[finbot]([https://github.com/AdamHassouni/Trading-Strategy](https://github.com/AdamHassouni/finbot))**: A modular Python-based trading strategy code that dynamically adjusts based on market conditions.
+- **[Listed Coin Bot]([https://github.com/AdamHassouni/Solar-Panel-Fault-Detection](https://github.com/AdamHassouni/Listed_coins_bot)**: A project that uses wWbsockets to detect newly listed coins on Binance
+- **[Black-Scholes Option Pricing]([https://github.com/AdamHassouni/Option-Pricing](https://github.com/AdamHassouni/Blackscholes_app))**: Built a Streamlit-based application for real-time Black-Scholes option pricing and visualization.
 
 ---
 
