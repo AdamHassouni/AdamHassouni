@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/mKhyedST7iVZPeC3yd/giphy.gif?cid=790b7611ykio1x4t93bscnxbryakrv6z06wdlwa84i0bbkib&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="400" />
-</div>
 
 
 # 💼 Adam Hassouni
@@ -52,5 +49,6 @@ I'm always open to connecting with other professionals in the financial and tech
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26uf2JHNV0u43Z67q/giphy.gif" width="50" height="50" />
+  <img src="https://media.giphy.com/media/mKhyedST7iVZPeC3yd/giphy.gif?cid=790b7611ykio1x4t93bscnxbryakrv6z06wdlwa84i0bbkib&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="400" />
 </div>
+
