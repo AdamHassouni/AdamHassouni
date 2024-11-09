@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCVUrBGvfg4OpS4/giphy.gif" width="100" height="100" />
+  <img src="[https://media.giphy.com/media/3o7aCVUrBGvfg4OpS4/giphy.gif](https://media.giphy.com/media/mKhyedST7iVZPeC3yd/giphy.gif?cid=790b7611ykio1x4t93bscnxbryakrv6z06wdlwa84i0bbkib&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="100" height="100" />
 </div>
 
 # 💼 Adam Hassouni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/adam-hassouni) 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=social&logo=gmail)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=social&logo=gmail)](mailto:adamhassouni111@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/AdamHassouni?label=Follow&style=social)](https://github.com/AdamHassouni)
 
 👋 Hello! I’m Adam Hassouni, a **Financial Engineer** with a deep passion for **Finance, Data Science, and Tech**. My mission is to bridge the gap between **financial modeling** and **technology** to provide actionable insights and innovative solutions in the financial domain. You can explore my work in data-driven strategies, algorithmic trading, and more in my repositories!
